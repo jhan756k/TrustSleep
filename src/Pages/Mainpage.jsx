@@ -7,8 +7,6 @@ const Mainpage = () => {
       <div className="maincontainer">
         <div className="titlediv">
           Trust and Sleep
-          <br />
-          유상현 설빙 마싯다
           </div>
         <div className="mainbuttondiv">
           <a href="/alarm" className="mainbwrap1">
